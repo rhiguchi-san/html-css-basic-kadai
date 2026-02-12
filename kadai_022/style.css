@@ -45,3 +45,8 @@ h2::before{
     content: "●";
     color: rgb(239,111,139);
 }
+
+img{
+    margin: 10px 0;
+    width: 100%;
+}
