@@ -57,9 +57,13 @@
     width: 400px;
     height: 100px;
     background-color: #e5dcf0;
+    position: relative;
+    left: 200px;
 }
 #bottom-child03{
     width: 400px;
     height: 100px;
     background-color: #e5dcf0;
+    position: relative;
+    left: 400px;
 }
